@@ -1,0 +1,18 @@
+#body {
+  background-color: #000;
+  color: #777;
+  color: #777;
+  text-decoration: none;
+  transition: 4s;
+  list-style: none;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-brand {
+  color: #fff;
+  fon-size: 3rem;
+}
+
+/*# sourceMappingURL=styles.css.map */
